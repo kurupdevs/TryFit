@@ -8,6 +8,8 @@ Try clothes on yourself before you buy. Upload a photo, pick any outfit, and see
 
 ## Screenshots
 
+> Design previews — the UI is built to match these reference designs pixel-for-pixel.
+
 | Onboarding | Home · Try-On · Wardrobe |
 |---|---|
 | <img src="docs/screenshots/00-onboarding.webp" width="270"> | <img src="docs/screenshots/01-home-tryon-wardrobe.webp" width="270"> |
@@ -126,5 +128,3 @@ Output: `.build/apk/TryFit-debug.apk` (signed, ~33 MB)
 - [ ] ML Kit on-device analyzer (currently stubbed)
 
 ---
-
-Built with care. No AI credit on public artifacts.
