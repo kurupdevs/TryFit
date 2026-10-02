@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hindi (hi) — key user-visible strings. English stays primary; this file
+     covers the storefront CTA/label set for v1. Full translation is a later phase. -->
+<resources>
+    <string name="onboarding_cta">तैयार? चलो शुरू करें!</string>
+    <string name="skip">छोड़ें</string>
+
+    <string name="tab_home">होम</string>
+    <string name="tab_tryon">ट्राई-ऑन</string>
+    <string name="tab_assistant">असिस्टेंट</string>
+    <string name="tab_wardrobe">वॉर्डरोब</string>
+    <string name="tab_settings">सेटिंग्स</string>
+
+    <string name="try_on">ट्राई-ऑन</string>
+    <string name="add_to_wardrobe">वॉर्डरोब में जोड़ें</string>
+    <string name="add_to_closet">क्लोज़ेट में जोड़ें</string>
+    <string name="buy_now">अभी खरीदें</string>
+    <string name="choose_size">साइज़ चुनें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="notifications">नोटिफिकेशन</string>
+</resources>

@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Iridescent AI orb: pink -> purple -> blue radial, glossy highlight -->
+    <path
+        android:pathData="M54,18m-36,0a36,36 0,1 1,72 0a36,36 0,1 1,-72 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="42"
+                android:centerX="44"
+                android:centerY="42">
+                <item android:offset="0.0" android:color="#FFF5EFFF" />
+                <item android:offset="0.35" android:color="#FFF9A8D4" />
+                <item android:offset="0.62" android:color="#FFA855F7" />
+                <item android:offset="0.85" android:color="#FFEC4899" />
+                <item android:offset="1.0" android:color="#FF3B82F6" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Glossy highlight -->
+    <path
+        android:pathData="M34,34c6,-8 18,-12 26,-8c-8,2 -16,8 -20,16c-4,6 -8,4 -6,-8z"
+        android:fillColor="#D9FFFFFF" />
+</vector>

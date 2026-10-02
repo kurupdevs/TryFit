@@ -1,0 +1,22 @@
+# Build outputs
+.build/
+local.properties
+*.apk
+*.aab
+
+# Manual libs (large, regenerated)
+/.manual-libs/jars/
+/.manual-libs/aar-classes/
+/.manual-libs/ksp/
+/.manual-libs/toolchain/
+/.manual-libs/deps-merged.jar
+.manual-libs/classpath.txt
+
+# IDE
+.idea/
+*.iml
+.gradle/
+
+# OS
+.DS_Store
+__pycache__/

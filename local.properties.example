@@ -1,0 +1,9 @@
+# Copy this file to `local.properties` and fill in your Supabase project values.
+# NEVER commit local.properties — it is gitignored.
+#
+# How to get these: Supabase dashboard → your project → Project Settings → API.
+# The anon key is the publishable "anon public" key (safe to ship in the app;
+# RLS policies protect the data). The service_role key must NEVER go here.
+
+supabase.url=https://your-project-ref.supabase.co
+supabase.anonKey=your-anon-public-key

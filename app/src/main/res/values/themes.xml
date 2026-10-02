@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cold-start theme: SplashScreen API (keeps splash->home first frame fast) -->
+    <style name="Theme.TryFit.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@android:color/white</item>
+        <item name="postSplashScreenTheme">@style/Theme.TryFit</item>
+    </style>
+
+    <style name="Theme.TryFit" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

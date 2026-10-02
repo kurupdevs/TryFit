@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Neutral body silhouette used as the photo-quality-gate fallback
+         ("try on a model shaped like you" — FEATURE-RESEARCH §1 item 4).
+         Deliberately abstract: no face, no body modification, no slimming. -->
+    <!-- Head -->
+    <path
+        android:pathData="M48,14 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0"
+        android:fillColor="#EDEDF0" />
+    <!-- Torso + legs silhouette -->
+    <path
+        android:pathData="M48,28
+            c-9,0 -15,4 -15,12 l-3,18 c-0.6,3.6 2,6 5,5 l4,-1 l1,20 c0.3,3.4 5.7,3.4 6,0 l2,-18 l2,18 c0.3,3.4 5.7,3.4 6,0 l1,-20 l4,1 c3,1 5.6,-1.4 5,-5 l-3,-18 c0,-8 -6,-12 -15,-12 Z"
+        android:fillColor="#EDEDF0" />
+</vector>

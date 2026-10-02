@@ -1,0 +1,867 @@
+[
+ {
+  "brand": "Urbanco",
+  "category": "casual",
+  "id": "product_001",
+  "image": "asset://product_001",
+  "name": "Indigo Denim Shirt",
+  "price_inr": 1499,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "denim",
+   "shirt"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "casual",
+  "id": "product_002",
+  "image": "asset://product_002",
+  "name": "White Essential Tee",
+  "price_inr": 499,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "tee",
+   "basics"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "casual",
+  "id": "product_003",
+  "image": "asset://product_003",
+  "name": "Beige Linen Shirt",
+  "price_inr": 1299,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "linen",
+   "summer"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "casual",
+  "id": "product_004",
+  "image": "asset://product_004",
+  "name": "Navy Polo T-Shirt",
+  "price_inr": 799,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "polo"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "casual",
+  "id": "product_005",
+  "image": "asset://product_005",
+  "name": "Olive Cargo Pants",
+  "price_inr": 1599,
+  "sizes": [
+   "28",
+   "30",
+   "32",
+   "34",
+   "36"
+  ],
+  "tags": [
+   "cargo"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "casual",
+  "id": "product_006",
+  "image": "asset://product_006",
+  "name": "Dark Blue Slim Jeans",
+  "price_inr": 1799,
+  "sizes": [
+   "28",
+   "30",
+   "32",
+   "34",
+   "36"
+  ],
+  "tags": [
+   "jeans",
+   "denim"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "casual",
+  "id": "product_007",
+  "image": "asset://product_007",
+  "name": "Khaki Chino Shorts",
+  "price_inr": 899,
+  "sizes": [
+   "28",
+   "30",
+   "32",
+   "34",
+   "36"
+  ],
+  "tags": [
+   "shorts"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "casual",
+  "id": "product_008",
+  "image": "asset://product_008",
+  "name": "Gray Pullover Hoodie",
+  "price_inr": 1399,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "hoodie"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "casual",
+  "id": "product_009",
+  "image": "asset://product_009",
+  "name": "Cream Sweatshirt",
+  "price_inr": 1199,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "sweatshirt"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "casual",
+  "id": "product_010",
+  "image": "asset://product_010",
+  "name": "Red-Black Flannel Shirt",
+  "price_inr": 1299,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "flannel"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "casual",
+  "id": "product_011",
+  "image": "asset://product_011",
+  "name": "Tan Chinos",
+  "price_inr": 1499,
+  "sizes": [
+   "28",
+   "30",
+   "32",
+   "34",
+   "36"
+  ],
+  "tags": [
+   "chinos"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "jackets",
+  "id": "product_012",
+  "image": "asset://product_012",
+  "name": "Black Overshirt Jacket",
+  "price_inr": 1999,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "overshirt"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "jackets",
+  "id": "product_013",
+  "image": "asset://product_013",
+  "name": "Classic Denim Jacket",
+  "price_inr": 2299,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "denim jacket"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "jackets",
+  "id": "product_014",
+  "image": "asset://product_014",
+  "name": "Olive Bomber Jacket",
+  "price_inr": 2499,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "bomber"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "jackets",
+  "id": "product_015",
+  "image": "asset://product_015",
+  "name": "Charcoal Formal Blazer",
+  "price_inr": 3999,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "blazer",
+   "formal"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "jackets",
+  "id": "product_016",
+  "image": "asset://product_016",
+  "name": "Black Puffer Jacket",
+  "price_inr": 2999,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "puffer",
+   "winter"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "jackets",
+  "id": "product_017",
+  "image": "asset://product_017",
+  "name": "Brown Faux-Leather Jacket",
+  "price_inr": 3499,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "leather"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "jackets",
+  "id": "product_018",
+  "image": "asset://product_018",
+  "name": "Navy Windbreaker",
+  "price_inr": 1799,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "windbreaker",
+   "sport"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "tops",
+  "id": "product_019",
+  "image": "asset://product_019",
+  "name": "Floral Summer Crop Top",
+  "price_inr": 899,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "crop top"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "tops",
+  "id": "product_020",
+  "image": "asset://product_020",
+  "name": "White Cotton Tank Top",
+  "price_inr": 499,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "tank"
+  ]
+ },
+ {
+  "brand": "Mehra & Co.",
+  "category": "tops",
+  "id": "product_021",
+  "image": "asset://product_021",
+  "name": "Pastel Pink Blouse",
+  "price_inr": 1299,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "blouse"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "tops",
+  "id": "product_022",
+  "image": "asset://product_022",
+  "name": "Mustard Knit Sweater",
+  "price_inr": 1599,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "sweater",
+   "knit"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "tops",
+  "id": "product_023",
+  "image": "asset://product_023",
+  "name": "Lavender Cardigan",
+  "price_inr": 1399,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "cardigan"
+  ]
+ },
+ {
+  "brand": "Mehra & Co.",
+  "category": "tops",
+  "id": "product_024",
+  "image": "asset://product_024",
+  "name": "Teal Tunic Top",
+  "price_inr": 1199,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "tunic"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "shoes",
+  "id": "product_025",
+  "image": "asset://product_025",
+  "name": "White Street Sneakers",
+  "price_inr": 1999,
+  "sizes": [
+   "UK 6",
+   "UK 7",
+   "UK 8",
+   "UK 9",
+   "UK 10",
+   "UK 11"
+  ],
+  "tags": [
+   "sneakers"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "shoes",
+  "id": "product_026",
+  "image": "asset://product_026",
+  "name": "Tan Chelsea Boots",
+  "price_inr": 2999,
+  "sizes": [
+   "UK 6",
+   "UK 7",
+   "UK 8",
+   "UK 9",
+   "UK 10",
+   "UK 11"
+  ],
+  "tags": [
+   "boots"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "shoes",
+  "id": "product_027",
+  "image": "asset://product_027",
+  "name": "Brown Leather Loafers",
+  "price_inr": 2499,
+  "sizes": [
+   "UK 6",
+   "UK 7",
+   "UK 8",
+   "UK 9",
+   "UK 10",
+   "UK 11"
+  ],
+  "tags": [
+   "loafers"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "shoes",
+  "id": "product_028",
+  "image": "asset://product_028",
+  "name": "Beige Strappy Sandals",
+  "price_inr": 1299,
+  "sizes": [
+   "UK 3",
+   "UK 4",
+   "UK 5",
+   "UK 6",
+   "UK 7",
+   "UK 8"
+  ],
+  "tags": [
+   "sandals"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "shoes",
+  "id": "product_029",
+  "image": "asset://product_029",
+  "name": "Red Running Shoes",
+  "price_inr": 2299,
+  "sizes": [
+   "UK 6",
+   "UK 7",
+   "UK 8",
+   "UK 9",
+   "UK 10",
+   "UK 11"
+  ],
+  "tags": [
+   "running",
+   "sport"
+  ]
+ },
+ {
+  "brand": "Mehra & Co.",
+  "category": "shoes",
+  "id": "product_030",
+  "image": "asset://product_030",
+  "name": "Black Block Heels",
+  "price_inr": 1799,
+  "sizes": [
+   "UK 3",
+   "UK 4",
+   "UK 5",
+   "UK 6",
+   "UK 7",
+   "UK 8"
+  ],
+  "tags": [
+   "heels"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "shoes",
+  "id": "product_031",
+  "image": "asset://product_031",
+  "name": "Gray Slides",
+  "price_inr": 699,
+  "sizes": [
+   "UK 6",
+   "UK 7",
+   "UK 8",
+   "UK 9",
+   "UK 10",
+   "UK 11"
+  ],
+  "tags": [
+   "slides"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "shoes",
+  "id": "product_032",
+  "image": "asset://product_032",
+  "name": "Tan Formal Oxford Shoes",
+  "price_inr": 2799,
+  "sizes": [
+   "UK 6",
+   "UK 7",
+   "UK 8",
+   "UK 9",
+   "UK 10",
+   "UK 11"
+  ],
+  "tags": [
+   "formal"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "bags",
+  "id": "product_033",
+  "image": "asset://product_033",
+  "name": "Canvas Tote Bag",
+  "price_inr": 999,
+  "sizes": [
+   "One Size"
+  ],
+  "tags": [
+   "tote"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "bags",
+  "id": "product_034",
+  "image": "asset://product_034",
+  "name": "Black Laptop Backpack",
+  "price_inr": 1899,
+  "sizes": [
+   "One Size"
+  ],
+  "tags": [
+   "backpack"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "bags",
+  "id": "product_035",
+  "image": "asset://product_035",
+  "name": "Brown Crossbody Bag",
+  "price_inr": 1499,
+  "sizes": [
+   "One Size"
+  ],
+  "tags": [
+   "crossbody"
+  ]
+ },
+ {
+  "brand": "Mehra & Co.",
+  "category": "bags",
+  "id": "product_036",
+  "image": "asset://product_036",
+  "name": "Black Quilted Handbag",
+  "price_inr": 2199,
+  "sizes": [
+   "One Size"
+  ],
+  "tags": [
+   "handbag"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "bags",
+  "id": "product_037",
+  "image": "asset://product_037",
+  "name": "Navy Travel Duffel",
+  "price_inr": 1699,
+  "sizes": [
+   "One Size"
+  ],
+  "tags": [
+   "duffel"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "bags",
+  "id": "product_038",
+  "image": "asset://product_038",
+  "name": "Gold Evening Clutch",
+  "price_inr": 1299,
+  "sizes": [
+   "One Size"
+  ],
+  "tags": [
+   "clutch"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "ethnic",
+  "id": "product_039",
+  "image": "asset://product_039",
+  "name": "Maroon Embroidered Kurti",
+  "price_inr": 1399,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "kurti",
+   "ethnic"
+  ]
+ },
+ {
+  "brand": "Mehra & Co.",
+  "category": "ethnic",
+  "id": "product_040",
+  "image": "asset://product_040",
+  "name": "Cream Kurta Set",
+  "price_inr": 2299,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "kurta set",
+   "ethnic"
+  ]
+ },
+ {
+  "brand": "Arqive",
+  "category": "ethnic",
+  "id": "product_041",
+  "image": "asset://product_041",
+  "name": "Ivory Sherwani",
+  "price_inr": 4999,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "sherwani",
+   "wedding"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "ethnic",
+  "id": "product_042",
+  "image": "asset://product_042",
+  "name": "Teal Palazzo Set",
+  "price_inr": 1799,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "palazzo",
+   "ethnic"
+  ]
+ },
+ {
+  "brand": "Arqive",
+  "category": "ethnic",
+  "id": "product_043",
+  "image": "asset://product_043",
+  "name": "Maroon Nehru Jacket",
+  "price_inr": 2499,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "nehru jacket",
+   "ethnic"
+  ]
+ },
+ {
+  "brand": "Mehra & Co.",
+  "category": "ethnic",
+  "id": "product_044",
+  "image": "asset://product_044",
+  "name": "Pink Anarkali Kurti",
+  "price_inr": 1599,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "anarkali",
+   "ethnic"
+  ]
+ },
+ {
+  "brand": "Urbanco",
+  "category": "casual",
+  "id": "product_045",
+  "image": "asset://product_045",
+  "name": "Sage Green Co-ord Set",
+  "price_inr": 1999,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "co-ord"
+  ]
+ },
+ {
+  "brand": "Threadline",
+  "category": "casual",
+  "id": "product_046",
+  "image": "asset://product_046",
+  "name": "Black Joggers",
+  "price_inr": 1099,
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "tags": [
+   "joggers"
+  ]
+ },
+ {
+  "brand": "Kardo",
+  "category": "casual",
+  "id": "product_047",
+  "image": "asset://product_047",
+  "name": "Light-Wash Denim Skirt",
+  "price_inr": 1199,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "skirt",
+   "denim"
+  ]
+ },
+ {
+  "brand": "Nilaya",
+  "category": "casual",
+  "id": "product_048",
+  "image": "asset://product_048",
+  "name": "Yellow Summer Dress",
+  "price_inr": 1499,
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "tags": [
+   "dress",
+   "summer"
+  ]
+ }
+]

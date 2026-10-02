@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TryFit</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_cta">Ready? Let\'s Go!</string>
+    <string name="skip">Skip</string>
+
+    <!-- Bottom nav tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_tryon">Try-On</string>
+    <string name="tab_assistant">Assistant</string>
+    <string name="tab_wardrobe">Wardrobe</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Storefront actions -->
+    <string name="try_on">Try-On</string>
+    <string name="add_to_wardrobe">Add to wardrobe</string>
+    <string name="add_to_closet">Add to Closet</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="choose_size">Choose Size</string>
+    <string name="cancel">Cancel</string>
+    <string name="notifications">Notifications</string>
+</resources>

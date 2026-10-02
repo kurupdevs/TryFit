@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Result images + exported data shared through the system share sheet. -->
+    <cache-path name="shared" path="shared/" />
+    <cache-path name="exports" path="exports/" />
+    <!-- Generated try-on transition videos (video.shareVideo). -->
+    <cache-path name="videos" path="videos/" />
+    <files-path name="tryon_results" path="tryon_results/" />
+    <!-- Closet digitizing: camera captures of the user's own garments. -->
+    <files-path name="closet" path="closet/" />
+</paths>
